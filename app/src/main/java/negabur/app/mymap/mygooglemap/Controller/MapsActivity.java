@@ -205,8 +205,9 @@ public class MapsActivity extends FragmentActivity implements AdapterView.OnItem
         mMap.clear();
         for (Ubicacio l : llista) {
             mMap.addMarker(new MarkerOptions().position(new LatLng(l.getLatitude(), l.getLongitude())).title(l.getName()));
+            centerMap();
         }
-        centerMap();
+
     }
 
 
