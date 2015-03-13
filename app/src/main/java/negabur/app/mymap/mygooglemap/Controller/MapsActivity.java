@@ -39,7 +39,7 @@ import negabur.app.mymap.mygooglemap.Model.Ubicacio;
 import negabur.app.mymap.mygooglemap.R;
 
 /**
- * Created by Ruben on 6/3/15.
+ * Created by Ruben on 6/3/15.s
  */
 public class MapsActivity extends FragmentActivity implements AdapterView.OnItemSelectedListener {
 

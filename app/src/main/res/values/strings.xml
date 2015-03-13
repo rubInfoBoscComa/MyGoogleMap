@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyGoogleMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="btnCerca">Cerca</string>
+    <string-array name="tipusMapa">
+        <item>Normal</item>
+        <item>Híbrid</item>
+        <item>Topogràfic</item>
+        <item>Satèl·lit</item>
+    </string-array>
+</resources>
